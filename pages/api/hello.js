@@ -1,0 +1,3 @@
+export default function hadsdndler(req, res) {
+  res.status(200).json({ text: "Hello" });
+}
