@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import Layout from "../../components/layout";
+import Layout from "../../components/Layout";
 
 // Next.js requirement: must export default, but can have any name
 export default function FirstPost() {
